@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "flatted": "^3.0.2",
     "node-fetch": "^2.6.1",
-    "papaparse": "^5.2.0",
+    "papaparse": "^5.4.1",
     "setimmediate": "^1.0.5",
     "winston": "^3.2.1"
   }
